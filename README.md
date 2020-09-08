@@ -16,10 +16,10 @@
 
 
     <nav class="navbar navbar-expand-md   bg-dark navbar-dark fixed-top">
-        <div class="container-fluid">
+       
         <a class="navbar-brand" href="#">Start Bootstrap</a>
-
-        <ul class="navbar-nav  ml-auto ">
+       <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav  mr-auto ">
             <li class="nav-item">
                 <a class="nav-link" href="#">Home</a>
             </li>
